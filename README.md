@@ -4,6 +4,7 @@
 
 ```bash
 # Log in as root
+adduser <username>
 apt-get install --no-install-recommends --yes \
     sudo
 usermod -aG sudo <username>
