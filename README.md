@@ -20,3 +20,24 @@ source ~/.bashrc
 volta install node@lts
 volta install yarn
 ```
+
+## Install Base
+
+```bash
+sudo apt-get install --no-install-recommends --yes \
+    git
+```
+
+## Install oh-my-zsh
+
+```bash
+sudo apt-get install --no-install-recommends --yes \
+    zsh
+```
+
+## Install vim
+
+```bash
+sudo apt-get install --no-install-recommends --yes \
+    vim
+```
